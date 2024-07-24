@@ -1,2 +1,2 @@
-# hello-world
+# reads array of integers
 just trying out 
